@@ -1,0 +1,10 @@
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.ConsoleApp\bin\Debug\LeilaoOnline.ConsoleApp.exe.config
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.ConsoleApp\bin\Debug\LeilaoOnline.ConsoleApp.exe
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.ConsoleApp\bin\Debug\LeilaoOnline.ConsoleApp.pdb
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.ConsoleApp\bin\Debug\LeilaoOnline.Core.dll
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.ConsoleApp\bin\Debug\LeilaoOnline.Core.pdb
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.ConsoleApp\obj\Debug\LeilaoOnline.ConsoleApp.csprojAssemblyReference.cache
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.ConsoleApp\obj\Debug\LeilaoOnline.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.ConsoleApp\obj\Debug\LeilaoOnline.ConsoleApp.csproj.CopyComplete
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.ConsoleApp\obj\Debug\LeilaoOnline.ConsoleApp.exe
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.ConsoleApp\obj\Debug\LeilaoOnline.ConsoleApp.pdb

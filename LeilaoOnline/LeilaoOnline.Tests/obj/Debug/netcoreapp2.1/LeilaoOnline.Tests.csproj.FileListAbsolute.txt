@@ -1,0 +1,17 @@
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\LeilaoOnline.Tests.csprojAssemblyReference.cache
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\LeilaoOnline.Tests.csproj.CoreCompileInputs.cache
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\LeilaoOnline.Tests.AssemblyInfoInputs.cache
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\LeilaoOnline.Tests.AssemblyInfo.cs
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\LeilaoOnline.Tests.deps.json
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\LeilaoOnline.Tests.runtimeconfig.json
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\LeilaoOnline.Tests.runtimeconfig.dev.json
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\LeilaoOnline.Tests.dll
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\LeilaoOnline.Tests.pdb
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\LeilaoOnline.Core.dll
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.Tests\bin\Debug\netcoreapp2.1\LeilaoOnline.Core.pdb
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\LeilaoOnline.Tests.csproj.CopyComplete
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\LeilaoOnline.Tests.dll
+D:\Projetos\LeilaoOnlineTDD\LeilaoOnline\LeilaoOnline.Tests\obj\Debug\netcoreapp2.1\LeilaoOnline.Tests.pdb

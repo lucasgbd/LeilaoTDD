@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projetos\\LeilaoOnlineTDD\\LeilaoOnline\\LeilaoOnline.Core\\LeilaoOnline.Core.csproj": {}
+  },
+  "projects": {
+    "D:\\Projetos\\LeilaoOnlineTDD\\LeilaoOnline\\LeilaoOnline.Core\\LeilaoOnline.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projetos\\LeilaoOnlineTDD\\LeilaoOnline\\LeilaoOnline.Core\\LeilaoOnline.Core.csproj",
+        "projectName": "LeilaoOnline.Core",
+        "projectPath": "D:\\Projetos\\LeilaoOnlineTDD\\LeilaoOnline\\LeilaoOnline.Core\\LeilaoOnline.Core.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\LeilaoOnlineTDD\\LeilaoOnline\\LeilaoOnline.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
